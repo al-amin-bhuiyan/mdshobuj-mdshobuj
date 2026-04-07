@@ -32,7 +32,7 @@
 * AI-powered mobile app for designing bags
 * Supports image generation & custom uploads
 * Built with structured MVC architecture
-  🔗 [https://github.com/al-amin-bhuiyan/AI-Bag-Design](https://github.com/al-amin-bhuiyan/AI-Bag-Design)
+  🔗 [https://github.com/al-amin-bhuiyan/AI-Bag-Design]
 
 ---
 
@@ -41,7 +41,7 @@
 * AI-based chat application with real-time communication
 * Built using Flutter, GetX, Socket.IO, GoRouter
 * Dynamic conversation with backend AI integration
-  🔗 [https://github.com/al-amin-bhuiyan](https://github.com/al-amin-bhuiyan/austin_small_talk)
+  🔗 [https://github.com/al-amin-bhuiyan/austin_small_talk]
 
 ---
 
@@ -50,15 +50,11 @@
 * Mental health & wellness app
 * Mood tracking, journaling, self-care features
 * Clean UI with scalable MVVM architecture
-  🔗 [https://github.com/your-github](https://github.com/al-amin-bhuiyan/mind_glow)
+  🔗 [https://github.com/al-amin-bhuiyan/mind_glow]
 
 ---
 
-### 📱 Mental Health App
 
-* Built with strict OOP and MVVM principles
-* Generic API handling + reusable components
-  🔗 https://github.com/your-github
 
 ---
 
