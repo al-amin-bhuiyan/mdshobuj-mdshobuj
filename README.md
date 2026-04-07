@@ -113,9 +113,9 @@
 
 ## 🎯 Competitive Programming
 
-* 💻 Codeforces: 800+ problems solved
-* 🍛 CodeChef: 100+ problems solved
-* 🧩 LeetCode: 150+ problems solved
+* 💻 Codeforces: 1000+ problems solved
+* 🍛 CodeChef: 150+ problems solved
+* 🧩 LeetCode: 180+ problems solved
 * 📚 Others: AtCoder, CSES, GeeksforGeeks
 
 ---
