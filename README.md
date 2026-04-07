@@ -1,145 +1,164 @@
+<!-- HEADER WAVE -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=220&section=header&text=MD.%20SHOBUJ&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm MD. SHOBUJ</h1>
-<h3 align="center">🚀 Flutter Developer | Clean Architecture Enthusiast | AI App Builder</h3>
+<h3 align="center">🚀 Flutter Developer | ⚡ Clean Architecture | 🤖 AI Builder</h3>
+
+<!-- TYPING ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Clean+Architecture+Lover;AI+Powered+Apps;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Building+Scalable+Apps;AI+Driven+Projects;Always+Leveling+Up&center=true&width=600&height=50">
+</p>
+
+<!-- SOCIAL GLOW -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-shobuj-bhuiyan-4a26b824b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mdshobuj204111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/al-amin-bhuiyan">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-shobuj-bhuiyan-4a26b824b/">LinkedIn</a> •
-  <a href="https://github.com/al-amin-bhuiyan">GitHub</a> •
-  <a href="mailto:mdshobuj204111@gmail.com">Email</a>
-</p>
-
----
-
-## 🧠 About Me
-
-* 🔭 Currently working as a **Flutter Developer**
-* 📱 Building scalable cross-platform mobile apps
-* ⚡ Strong in **GetX, MVVM, Clean Architecture**
-* 💳 Experienced in **Stripe, bKash, Nagad payment integration**
-* 🔌 Skilled in **REST API, Firebase, Socket.IO**
-* 🤖 Interested in **AI-powered mobile applications**
-* 📊 Created **Bangladesh Air Quality Dataset (Kaggle)**
-
----
-
-## 🚀 Featured Projects
-
-### 👜 AI Bag Design
-
-* AI-powered mobile app for designing bags
-* Supports image generation & custom uploads
-* Built with structured MVC architecture
-  🔗 [https://github.com/al-amin-bhuiyan/AI-Bag-Design]
-
----
-
-### 💬 Austin Small Talk
-
-* AI-based chat application with real-time communication
-* Built using Flutter, GetX, Socket.IO, GoRouter
-* Dynamic conversation with backend AI integration
-  🔗 [https://github.com/al-amin-bhuiyan/austin_small_talk]
-
----
-
-### 🧠 Fatema Mind Glow
-
-* Mental health & wellness app
-* Mood tracking, journaling, self-care features
-* Clean UI with scalable MVVM architecture
-  🔗 [https://github.com/al-amin-bhuiyan/mind_glow]
-
----
-
-
-
----
-
-## ⚙️ Tech Stack
-
-### 👨‍💻 Languages
-
-![C](https://img.shields.io/badge/C-blue)
-![C++](https://img.shields.io/badge/C++-blue)
-![Java](https://img.shields.io/badge/Java-red)
-![Python](https://img.shields.io/badge/Python-yellow)
-![Dart](https://img.shields.io/badge/Dart-blue)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
-
-### 📱 Frameworks & Tools
-
-![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![Hive](https://img.shields.io/badge/Hive-yellow)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=al-amin-bhuiyan&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+# 🧠 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+
+✨ Passionate Flutter Developer building real-world apps
+⚡ Strong in **GetX, MVVM, Clean Architecture**
+💳 Payment systems: **Stripe, bKash, Nagad**
+🔌 Real-time apps using **Socket.IO**
+🤖 Exploring **AI-powered mobile apps**
+📊 Built **Bangladesh Air Quality Dataset**
+
+---
+
+# 🚀 Featured Projects
+
+## 👜 AI Bag Design
+
+✨ AI-generated bag design + image upload
+🧱 MVC architecture
+🔗 https://github.com/al-amin-bhuiyan/AI-Bag-Design
+
+---
+
+## 💬 Austin Small Talk
+
+💡 AI chat + real-time messaging
+⚙️ Flutter + GetX + Socket.IO
+🔗 https://github.com/al-amin-bhuiyan/austin_small_talk
+
+---
+
+## 🧠 Fatema Mind Glow
+
+💖 Mental wellness + mood tracking
+📊 Clean UI + MVVM
+🔗 https://github.com/al-amin-bhuiyan/mind_glow
+
+---
+
+# ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyo-night" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,java,cpp,c,git,github,mysql,postgresql&perline=6"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+# 📊 GitHub Stats
 
-* 🥇 Codeforces Pupil (Max Rating: 1228)
-* 🧠 Solved 150+ problems on LeetCode
-* 🏅 CodeChef Max Rating: 1603
-* 🥈 6th Place — DUET Programming Contest (2022)
-* 🥉 9th Place — DUET Programming Contest (2024)
-
----
-
-## 🎯 Competitive Programming
-
-* 💻 Codeforces: 1000+ problems solved
-* 🍛 CodeChef: 150+ problems solved
-* 🧩 LeetCode: 180+ problems solved
-* 📚 Others: AtCoder, CSES, GeeksforGeeks
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=al-amin-bhuiyan&show_icons=true&theme=tokyonight&border_radius=15"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=al-amin-bhuiyan&theme=tokyonight&border_radius=15"/>
+</p>
 
 ---
 
-## 🏫 Education
+# 🏆 Achievements & Trophies
 
-* 🎓 B.Sc. in CSE — DUET (2021–2025)
-* 🎓 Diploma in Computer Technology — Chittagong Polytechnic Institute (CGPA: 3.76/4.00)
-
----
-
-## 🤝 Leadership & Activities
-
-* 🎤 Former Vice President — DUET Computer Society
-* 🎯 Organizer of tech seminars & events
-* 🎭 Cultural activities: Acting, Mimicry, Public Speaking
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=al-amin-bhuiyan&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-## 📫 Contact Me
+# 🔥 Contribution Graph
 
-📧 Email: [mdshobuj204111@gmail.com](mailto:mdshobuj204111@gmail.com)
-🔗 LinkedIn:[ https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/md-shobuj-bhuiyan-4a26b824b/)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=al-amin-bhuiyan&theme=tokyo-night"/>
+</p>
 
 ---
 
-⭐ *“Building scalable apps, solving real-world problems, and continuously learning.”*
+# 🐍 Contribution Snake (ANIMATION)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/al-amin-bhuiyan/al-amin-bhuiyan/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🎯 Competitive Programming
+
+<p align="center">
+💻 Codeforces (1000+) • 🍛 CodeChef (150+) • 🧩 LeetCode (180+)  
+📚 AtCoder • CSES • GeeksforGeeks  
+</p>
+
+---
+
+# 🏫 Education
+
+🎓 B.Sc. in CSE — DUET (2021–2025)
+🎓 Diploma — Chittagong Polytechnic Institute (CGPA: 3.76)
+
+---
+
+# 🤝 Leadership
+
+🎤 VP — DUET Computer Society
+🎯 Tech Event Organizer
+🎭 Acting & Public Speaking
+
+---
+
+# 💼 Open for Opportunities
+
+🚀 Available for **Flutter Developer roles**
+📩 Let’s build something amazing together!
+
+---
+
+# 📫 Contact
+
+<p align="center">
+📧 <a href="mailto:mdshobuj204111@gmail.com">mdshobuj204111@gmail.com</a><br>
+🔗 <a href="https://www.linkedin.com/in/md-shobuj-bhuiyan-4a26b824b/">LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>"Consistency beats talent. I show up every day."</i>
+</p>
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243b55,100:141e30&height=120&section=footer"/>
+</p>
